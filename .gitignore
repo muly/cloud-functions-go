@@ -2,3 +2,14 @@ build
 node_modules
 main
 function.zip
+
+
+build
+/examples
+/nodego
+*.go
+*.md
+*.sh
+function.zip
+Makefile
+Vagrantfile
